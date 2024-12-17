@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>Update workflow</li>
+          <li>Update workflow on GitHub to deploy your project.</li>
 
 
         </ol>
