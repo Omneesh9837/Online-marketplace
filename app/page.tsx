@@ -23,6 +23,7 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
           <li>Update workflow on GitHub to deploy your project.</li>
           <li>This project is deployed on Vercel.</li>
+          
 
 
         </ol>
